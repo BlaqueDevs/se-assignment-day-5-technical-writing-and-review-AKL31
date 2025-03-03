@@ -3,7 +3,6 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 Understanding your audience’s expertise level is crucial in shaping how you present technical information.
-
 For tech experts: Use precise technical terms, assume prior knowledge, and focus on advanced details, optimizations, and deeper explanations. Avoid over-explaining basic concepts.
 
 For regular users (non-experts): Use simple language, avoid jargon or define technical terms, provide clear step-by-step instructions, and include visuals or examples to aid understanding.
